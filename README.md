@@ -4,7 +4,6 @@ This project builds a Discounted Cash Flow (DCF) valuation model for Unilever.
 The model incorporates historical financials, forecasts, intrinsic valuation, and a sensitivity analysis.  
 It was developed in Microsoft Excel as part of my finance learning portfolio.
 
-## My Excel Model
 My Excel Model link: [Unilever_DCF_Model.xlsx](https://github.com/user-attachments/files/22313120/Unilever_DCF_Model.xlsx)
 <img width="1426" height="862" alt="image" src="https://github.com/user-attachments/assets/9a5b6585-78a4-46b1-b70f-dc653faafe18" />
 [DCF model summary.pdf](https://github.com/user-attachments/files/22313152/DCF.model.summary.pdf)
